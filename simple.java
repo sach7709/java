@@ -2,6 +2,6 @@ class simple{
 public static void main(string args[]){
 
 
-ststem.out.println("wlecome to clouknowledgendia");
+ststem.out.println("wlecome to clouknowledgendiaachin);
 }
 }
